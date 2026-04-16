@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Portfolio**
 
-- 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **Open-Source**
 
-- 💬 Ask me about **JavaScript,Tailwind CSS,CSS,HTML**
+- 💬 Ask me about ** React.Js, Node.js, MongoDB, JavaScript,Tailwind CSS,CSS,HTML**
 
 - 📫 How to reach me **khushhal2112@gmail.com**
 
